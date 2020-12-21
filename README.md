@@ -1,8 +1,8 @@
 # CRNN_v1
 
 # data https://github.com/sungbohsun/music_segmentation
-## audio
-## annotations/Labels
+> audio
+> annotations/Labels
 
 ```bash
 ├── audio
