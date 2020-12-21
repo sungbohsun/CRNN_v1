@@ -2,11 +2,11 @@
 
 #data https://drive.google.com/drive/folders/116rhwnh9z-lbOPSpZwGWjZYJVook4pFM?usp=sharing
 
-'''python
+```bash
 ├── audio
 ├── Labels
 ├── model
 ├── README.md
 ├── train.py
 └── utils.py
-'''
+```
