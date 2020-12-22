@@ -5,7 +5,8 @@
 * > audio  
 * > annotations/Labels  
 
-<img src="https://github.com/sungbohsun/CRNN_v1/blob/main/png/model.png" width="200" />
+<img src="https://github.com/sungbohsun/CRNN_v1/blob/main/png/model.png" width="600" />  
+
 ```bash
 ├── audio
 ├── Labels
