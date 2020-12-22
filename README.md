@@ -5,7 +5,7 @@
 * > audio  
 * > annotations/Labels  
 
-![image](https://github.com/sungbohsun/CRNN_v1/blob/main/png/model.png){:height="24px" width="48px"}  
+![image](https://github.com/sungbohsun/CRNN_v1/blob/main/png/model.png){:height="12px" width="12px"}  
 
 ```bash
 ├── audio
