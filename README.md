@@ -2,8 +2,8 @@
 
 * The data is from https://www.music-ir.org/mirex/wiki/2017:Structural_Segmentation a corpus of 177 Beatles songs  
 <img src="https://github.com/sungbohsun/CRNN_v1/blob/main/png/labels.png" width="600" />  
-* You can also get the data from https://github.com/sungbohsun/music_segmentation **audio** & **annotations/Labels**  
-the data trianform to the seven diffirent label
+
+* You can also get the data from https://github.com/sungbohsun/music_segmentation **audio** & **annotations/Labels**  the data triansform to the seven diffirent label
 
   * 1、引子 （intro）
   * 2、主歌 （verse）
